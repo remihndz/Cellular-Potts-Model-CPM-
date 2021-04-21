@@ -1,3 +1,4 @@
+## Wave propagation simulation
 Implementation in MATLAB of the cellular automata presented in [[1]](#1), modelling sound wave propagation in a medium with sound barriers.
 
 
