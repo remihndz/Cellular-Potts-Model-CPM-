@@ -1,2 +1,3 @@
-# Cellular Potts Model
-Cellular Potts Models (CPM are useful tools in computational biology. This project aims at writing Python programs implementing, testing and experiencing with CPM.
+# Cellular Automaton
+This repository contains various simulations using cellular automata/cellular Potts model. Code will mostly be in MATLAB/Python.  
+Cellular Automaton (CA) are useful tools in computational biology and other fields due to their simplicity. 
